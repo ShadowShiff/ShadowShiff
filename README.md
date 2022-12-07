@@ -1,1 +1,1 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35](https://user-images.githubusercontent.com/97263271/206057356-29098141-d8a8-47ac-af95-72d2de2e66b6.svg)
+img src="https://img.shields.io/badge/Python-7FFD4?style=for-the-badge&logo=Python&logoColor=yellow"/
