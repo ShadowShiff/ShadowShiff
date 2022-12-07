@@ -1,2 +1,1 @@
-<img src="https://simpleicons.org/icons/python.svg" width=10 height=10>
-
+<img src=https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow" />
